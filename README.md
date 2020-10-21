@@ -10,12 +10,12 @@ here are the questions to my check point I did for thinkful
 
 4.The dog grooming salon had a special promotion going on that week. Whichever dog came in three or more times got a special toy! Which dogs (petIDs) got the toy?
 
-5.What was the most common service done for large dogs during this week?
+5. What was the most common service done for large dogs during this week?
 
 6. Every owner who has had ten total visits (multiple dogs in the same visit are considered as individual visits) gets the eleventh one free! 
-Did anyone get a free service this week? If so, who? 
+  Did anyone get a free service this week? If so, who? 
 
-7.What is the highest and lowest ownerID in both owners and owners2?
+7. What is the highest and lowest ownerID in both owners and owners2?
 
 
 The answers are in the file above go chceck out my code
