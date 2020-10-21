@@ -1,4 +1,4 @@
-# 15.3-checkpoint
+# thinkful sql join clauses
 15.3 checkpoint solutions finish
 here are the questions to my check point I did for thinkful
 
